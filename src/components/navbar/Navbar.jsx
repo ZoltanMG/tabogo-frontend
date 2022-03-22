@@ -3,7 +3,7 @@ import './navbar.css'
 function Navbar() {
     return(
         <nav>
-            <p>Tabogo</p>
+            <a href='/'>Tabogo</a>
         </nav>
     )
 }
